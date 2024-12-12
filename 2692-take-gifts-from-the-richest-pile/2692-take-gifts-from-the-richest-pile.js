@@ -4,21 +4,13 @@
  * @return {number}
  */
 var pickGifts = function(gifts, k) {
+    gifts.sort((a, b) => a - b);
 
-  
-    //we will solve it using max Heap 
- 
- 
- gifts.sort((a, b) => {return b - a; });
-for(let i = 0 ; i <k;i++){
-    let largest = gifts[0];
-    let new_value = Math.floor(Math.sqrt(largest));
-    gifts[0] = Math.floor(Math.sqrt(largest))
-    gifts.sort((a, b) => {return b - a; });
-}
-console.log(gifts)
+    for (let i = 0; i < k; i++) {
+        gifts[gifts.length - 1] = Math.floor(Math.sqrt(gifts[gifts.length - 1]));
+        gifts.sort((a, b) => a - b);
+    }
 
- return gifts.reduce((sum, gift) => sum + gift, 0); ;
+    return gifts.reduce((sum, gift) => sum + gift, 0);
+};
 
-    
-}; 
