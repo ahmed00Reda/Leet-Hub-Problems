@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
