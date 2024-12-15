@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
@@ -30,4 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
