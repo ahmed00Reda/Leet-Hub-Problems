@@ -11,10 +11,9 @@ var findTheDifference = function(s, t) {
     charCount[char] = (charCount[char] || 0) + 1;
   }
 
-  // Compare with characters in string `t`
   for (let char of t) {
     if (!charCount[char]) {
-      return char; // Extra character found
+      return char; 
     }
     charCount[char]--;
   }
