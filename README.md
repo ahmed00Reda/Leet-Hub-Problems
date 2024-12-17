@@ -40,10 +40,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -69,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
