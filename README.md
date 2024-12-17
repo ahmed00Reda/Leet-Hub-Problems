@@ -61,4 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
