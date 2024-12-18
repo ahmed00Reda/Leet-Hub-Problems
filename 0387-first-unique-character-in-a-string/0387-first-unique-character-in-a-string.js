@@ -3,7 +3,7 @@
  * @return {number}
  */
 var firstUniqChar = function(s) {
-    const hashTable = [];
+    const hashTable = {};
   
   for (let char of s) {
     hashTable[char] = (hashTable[char] || 0) + 1;
