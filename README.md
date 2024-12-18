@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
@@ -59,11 +60,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
