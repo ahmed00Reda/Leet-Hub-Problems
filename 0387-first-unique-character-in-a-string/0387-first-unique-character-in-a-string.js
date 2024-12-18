@@ -3,19 +3,18 @@
  * @return {number}
  */
 var firstUniqChar = function(s) {
-    const hashTable = {};
-  
-  for (let char of s) {
-    hashTable[char] = (hashTable[char] || 0) + 1;
-  }
-  for(c in hashTable){
-    console.log(hashTable[c])
-    if(hashTable[c]==1){
-        return s.indexOf(c)
+      const map = {};
+    
+    for (const char of s) {
+        map[char] = (map[char] || 0) + 1;
     }
-   
-  }
-   return -1 
-
+    
+    
+    for (let i = 0; i < s.length; ++i) {
+        if (map[s[i]] === 1) {
+            return i;
+        }
+    }
+    return -1;
     
 };
