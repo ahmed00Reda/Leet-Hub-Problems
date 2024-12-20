@@ -5,8 +5,10 @@
 var maximumProduct = function(nums) {
     
     nums.sort((a, b) => a - b); 
-       nums.sort((a,b)=> b-a);
-   
-    return Math.max(nums[0]*nums[1]*nums[2], nums[nums.length-1]*nums[nums.length-2]*nums[0])
+    const n = nums.length
+    
+    const product1 = nums[0] * nums[1] * nums[n - 1]
+    const product2 = nums[n - 1] * nums[n - 2] * nums[n - 3]
+    return Math.max(product1, product2)
 };
     
