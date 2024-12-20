@@ -88,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
