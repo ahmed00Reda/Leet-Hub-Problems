@@ -19,24 +19,9 @@ var kthDistinct = function(arr, k) {
   if (k > 0 && k <= entries.length) {
   const nthElement = entries[k - 1];
   return nthElement[0] 
-  console.log(`Key: ${nthElement[0]}, Value: ${nthElement[1]}`);
 } else {
   return ""
 }
 
-  console.log(distinct.length)
-   //if(k>distinct.length) {return ""}
-  console.log(distinct)
 
-
- 
-
- 
-
-
-
-
-
-
-    
 };
