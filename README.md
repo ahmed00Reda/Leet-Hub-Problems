@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1791-richest-customer-wealth) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Heap (Priority Queue)
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,11 +73,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
