@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0682-baseball-game) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1791-richest-customer-wealth) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Queue
 |  |
 | ------- |
