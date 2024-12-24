@@ -4,15 +4,12 @@
  * @return {boolean}
  */
 var canBeEqual = function(target, arr) {
-    if(target.length!==arr.length) return false;
-    arr.sort()
-    target.sort()
-    console.log(arr+"DDD"+target)
-    console.log(arr.toString()==target.toString())
-    if(arr.toString()==target.toString()){
-        return  true
-    } 
-    return false
+    let sortArr = [...arr].sort()
+
+     let sortTarget = [...target].sort()
+
+     return JSON.stringify(sortTarget) == JSON.stringify(sortArr)
+    
 
     
 };
