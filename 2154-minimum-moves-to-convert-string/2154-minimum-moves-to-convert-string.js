@@ -3,14 +3,15 @@
  * @return {number}
  */
 var minimumMoves = function(s) {
-    let  r = 0
-    let  l = 0 
-    while( l < s.length){
-        if(s[l]=="X"){
-            r++
-            l+=2
+    let counter = 0;
+    let sum = 0;
+    for(let i = 0; i< s.length; i++) {
+        // firstv x to nextv three items
+        if (s[i] === "X") {
+            sum++
+            i +=2
         }
-        l++
-    }  
-    return r  
+    }
+    return sum;
+
 };
