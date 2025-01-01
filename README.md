@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0682-baseball-game) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1791-richest-customer-wealth](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
@@ -120,5 +122,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2154-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
