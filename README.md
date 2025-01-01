@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1791-richest-customer-wealth](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Heap (Priority Queue)
