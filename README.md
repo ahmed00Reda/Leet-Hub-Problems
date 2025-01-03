@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0682-baseball-game) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
