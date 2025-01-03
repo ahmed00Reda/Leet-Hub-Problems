@@ -3,13 +3,17 @@
  * @return {boolean[]}
  */
 var prefixesDivBy5 = function(nums) {
-     let result = [];
-    let binary = 0;
-    for(let num of nums){
-        binary = (binary % 5) * 2 + num;
-        let checkBinary = ( binary % 5 == 0);
-        result.push(checkBinary);
-    }
-    return result
+      let stv = 0;
+
+    return nums.map((bit) => {
+
+        stv = stv*2 + bit;
+
+        stv %= 5;
+
+        return stv == 0
+
+
+    })
     
 };
