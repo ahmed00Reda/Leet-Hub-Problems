@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0682-baseball-game) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
