@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-binary-prefix-divisible-by-5](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1651-shuffle-string) |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1651-shuffle-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
