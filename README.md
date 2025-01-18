@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
