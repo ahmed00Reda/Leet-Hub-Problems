@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0682-baseball-game) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
