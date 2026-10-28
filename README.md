@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0627-swap-salary) |
 | [1068-product-sales-analysis-i](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1068-product-sales-analysis-i) |
