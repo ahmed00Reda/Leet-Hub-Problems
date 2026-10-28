@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0595-big-countries](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0627-swap-salary) |
+| [1068-product-sales-analysis-i](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1683-invalid-tweets) |
