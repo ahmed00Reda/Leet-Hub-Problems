@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0027-remove-element](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -23,41 +23,41 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0682-baseball-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1755-defuse-the-bomb](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1791-richest-customer-wealth](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0125-valid-palindrome](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -73,60 +73,60 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2727-number-of-senior-citizens) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0027-remove-element](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0383-ransom-note](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0627-swap-salary) |
@@ -136,14 +136,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1683-invalid-tweets) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0682-baseball-game](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2154-minimum-moves-to-convert-string) |
