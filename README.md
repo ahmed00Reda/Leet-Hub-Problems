@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1651-shuffle-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1768-merge-strings-alternately) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/ahmed00Reda/Leet-Hub-Problems/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
