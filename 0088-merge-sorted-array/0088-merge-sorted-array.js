@@ -5,11 +5,25 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
-var merge = function(nums1, m, nums2, n) {
-    
-   for (let i = m, j = 0; j < n; i++, j++) {
-        nums1[i] = nums2[j];
+var merge = function (nums1, m, nums2, n) {
+  let p1 = m - 1;
+  let p2 = n - 1;
+  let p = m + n - 1;
+
+  while (p1 >= 0 && p2 >= 0) {
+    if (nums1[p1] > nums2[p2]) {
+      nums1[p] = nums1[p1];
+      p1--;
+    } else {
+      nums1[p] = nums2[p2];
+      p2--;
     }
-    nums1.sort((a, b) => a - b);
-    
+    p--;
+  }
+
+  while (p2 >= 0) {
+    nums1[p] = nums2[p2];
+    p2--;
+    p--;
+  }
 };
